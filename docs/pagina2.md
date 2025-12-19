@@ -1,9 +1,15 @@
+
+---
+
+### **6️⃣ pagina2.md**
+```markdown
 # Página 2
 
-Conteúdo da página 2 da wiki.
+Conteúdo da segunda página.
 
-Exemplo de lista:
+Exemplo de tabela:
 
-- Item 1
-- Item 2
-- Item 3
+| Nome | Idade | Cidade |
+|------|-------|--------|
+| João | 25    | SP     |
+| Maria| 30    | RJ     |

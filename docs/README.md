@@ -1,6 +1,9 @@
 # Bem-vindo à Minha Wiki
 
-Esta é a página inicial da wiki.
+Esta é a página inicial da wiki.  
 
-- Use o menu lateral para navegar pelas páginas.
-- Você pode editar e adicionar novas páginas facilmente.
+Aqui você pode organizar todo o conteúdo do seu projeto de forma clara.
+
+- Navegue pelo menu lateral.
+- Adicione novas páginas no `docs/` e links no `sidebar.md`.
+- Use Markdown para formatar o conteúdo.

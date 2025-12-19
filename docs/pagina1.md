@@ -1,5 +1,12 @@
 # Página 1
 
-Conteúdo da página 1 da wiki.
+Esta é a primeira página da wiki.
 
-Você pode adicionar imagens, links e qualquer conteúdo em Markdown.
+Exemplo de itens:
+- Item 1
+- Item 2
+- Item 3
+
+Você pode adicionar imagens, links e código:
+```javascript
+console.log("Minha Wiki está funcionando!");
